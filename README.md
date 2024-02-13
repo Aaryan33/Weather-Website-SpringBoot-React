@@ -1,4 +1,4 @@
-# Weather_Website-SpringBoot-React-
+# Weather_Website-SpringBoot-React
 
 This project is a Weather Website developed using Spring Boot for the backend and React for the frontend. It allows users to retrieve weather information for different cities.
 
